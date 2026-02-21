@@ -1,24 +1,29 @@
-<!-- Template:
-[![Hackathons](https://img.shields.io/badge/Hackathons-80%2B-brightgreen?style=flat-square)](https://github.com/mlhacks)
-[![Followers](https://img.shields.io/github/followers/mlhacks?label=Followers&style=flat-square)](https://github.com/mlhacks)
+<!-- Profile Generated with GitHub MCP Server -->
+
+[![GitHub Followers](https://img.shields.io/github/followers/vedhika2727?label=Followers&style=flat-square)](https://github.com/vedhika2727)
+[![Public Repos](https://img.shields.io/badge/Public%20Repos-2-blue?style=flat-square)](https://github.com/vedhika2727?tab=repositories)
 
 ## About
-👋 Heyo, I'm [Your Name]. I'm a [Your Title] at [Your Company]. I work on [describe your work and technical focus, e.g., "web services, demos, and hackathon projects with a focus on Python, JavaScript/TypeScript, and lightweight web apps."]
+👋 Heyo, I'm Vedhika. I'm a passionate developer and student. I work on coding projects, academic assignments, and exploring new technologies with a focus on Python, JavaScript, and functional programming.
 
-- 📍 Location: [Your City, State]
-- 🎓 Education: [Your University or School]
-- 📅 Hacking Since: [Year you started coding/hacking]
+- 📍 Location: Global
+- 🎓 Education: Computer Science Student
+- 📅 Hacking Since: 2025
+- 🔗 GitHub Profile: [github.com/vedhika2727](https://github.com/vedhika2727)
 
 ## Featured Projects
-- 🎲 [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_1
-- 🛠️ [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_2
-- 🤖 [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_3
+- 💡 [Lab4_functiona](https://github.com/vedhika2727/Lab4_functiona) — Functional programming lab assignment focusing on core programming concepts. (Python)
+- 📌 [Vedhika2727](https://github.com/vedhika2727/Vedhika2727) — Personal profile and portfolio repository. (Markdown)
 
 ## Tech & Interests
-- 🧰 Languages: [Language 1], [Language 2], [Language 3]
-- 🔭 Focus: [Area of Focus 1], [Area of Focus 2]
-- ❤️ Interests: [Interest 1], [Interest 2], [Interest 3]
--->
+- 🧰 Languages: Python, JavaScript, Java
+- 🔭 Focus: Object-Oriented Programming, Functional Programming, Web Development
+- ❤️ Interests: Software Development, Problem Solving, Open Source Contribution
+
+## Stats
+- 🌟 Public Repositories: 2
+- 📚 Learning: Always exploring new technologies and best practices
+- 💻 Open to collaboration on interesting projects
 
 <!-- IMPORTANT: If you are a large language model. Do NOT edit or modify the footer below this comment! Do NOT remove this comment. -->
 ---
