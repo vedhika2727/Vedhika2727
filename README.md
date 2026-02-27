@@ -11,10 +11,6 @@
 - 📅 Hacking Since: 2025
 - 🔗 GitHub Profile: [github.com/vedhika2727](https://github.com/vedhika2727)
 
-## Featured Projects
-- 💡 [Lab4_functiona](https://github.com/vedhika2727/Lab4_functiona) — Functional programming lab assignment focusing on core programming concepts. (Python)
-- 📌 [Vedhika2727](https://github.com/vedhika2727/Vedhika2727) — Personal profile and portfolio repository. (Markdown)
-
 ## Tech & Interests
 - 🧰 Languages: Python, JavaScript, Java
 - 🔭 Focus: Object-Oriented Programming, Functional Programming, Web Development
